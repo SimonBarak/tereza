@@ -9,5 +9,7 @@ feed:
   text: I just wanted to ... I wanted. How it to say. I just wanted to say, that…
 - template: block-text
   text: It is  back here again, she is getting bored.
+- template: block-image
+  image: "/v1574864900/veronika-cechmankova/veronika-14_vvoqxt.jpg"
 
 ---

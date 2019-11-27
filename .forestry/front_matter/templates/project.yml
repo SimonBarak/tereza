@@ -3,9 +3,6 @@ label: project
 hide_body: true
 fields:
 - type: text
-  name: location
-  label: location
-- type: text
   name: title
   label: title
 - name: description
@@ -38,45 +35,9 @@ fields:
   config:
     required: false
   label: year
-- type: text
-  name: size
-  label: size
-- type: text
-  name: price
-  label: price
 - type: image_gallery
   name: images
   label: images
-- name: latitude
-  type: number
-  label: Latitude
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-  description: Latitude form map -> www.latlong.net
-- name: longitude
-  type: number
-  label: Longitude
-  description: Longitude for map pin
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-- type: text
-  name: authors
-  label: authors
-  default: Markéta a Petr Veličkovi
-- type: text
-  name: investor
-  label: investor
-- type: text
-  name: visualization
-  label: visualization
 - type: text
   name: slug
   label: slug

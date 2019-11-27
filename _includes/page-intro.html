@@ -1,0 +1,7 @@
+{% if page.intro_paragraph and page.intro_paragraph != '' %}
+<h4 class="intro">
+  {{ page.intro_paragraph | markdownify | remove: '
+  <h4>' | remove: '</h4>
+  ' }}
+</h4>
+{% endif %}

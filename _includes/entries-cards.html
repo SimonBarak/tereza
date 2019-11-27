@@ -1,0 +1,5 @@
+<div class="flex flex-wrap justify-around lg:justify-between items-baseline">
+  {%- for item in site.projects -%}
+  <div class="p-2 lg:pb-5">{%- include project-card-md.html -%}</div>
+  {%-endfor -%}
+</div>

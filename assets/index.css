@@ -1,0 +1,179 @@
+@import url("https://rsms.me/inter/inter.css");
+
+@import "swiper/swiper.scss";
+
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.menu-is-open {
+  //overflow: hidden;
+  main {
+    filter: blur(10px);
+  }
+
+  .page-title {
+    opacity: 0.2;
+  }
+}
+
+.entries-cards,
+.entries-table {
+  display: none;
+}
+
+.entries[data-view="cards"] .entries-cards {
+  display: block;
+}
+
+.entries[data-view="table"] .entries-table {
+  display: block;
+}
+
+header {
+  background: linear-gradient(
+    to bottom,
+    rgba(242, 242, 242, 1) 0%,
+    rgba(242, 242, 242, 0) 100%
+  );
+}
+
+nav {
+  background-color: rgba(200, 200, 200, 0.7);
+}
+
+.swiper-next {
+  right: 0;
+  cursor: e-resize;
+
+  /* background: linear-gradient(
+    90deg,
+    rgba(230, 230, 230, 0),
+    rgba(230, 230, 230, 1)
+  ); */
+}
+
+.swiper-prev {
+  cursor: w-resize;
+  /* background: linear-gradient(
+    90deg,
+    rgba(230, 230, 230, 1),
+    rgba(230, 230, 230, 0)
+  ); */
+}
+
+.swiper-pagination-bullet {
+  width: 14px;
+  height: 14px;
+  display: inline-block;
+  border-radius: 100%;
+  background: #000;
+  opacity: 0.2;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 0.7;
+}
+
+.swiper-container-horizontal
+  > .swiper-pagination-bullets
+  .swiper-pagination-bullet {
+  margin: 0 4px;
+}
+
+/* .swiper-container {
+  overflow: visible;
+} */
+
+.swiper-pagination {
+  text-align: center;
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+  cursor: pointer;
+}
+
+.swiper-container[mode="scroll"] {
+  height: auto;
+
+  .swiper-wrapper {
+    flex-direction: column;
+  }
+
+  .swiper-slide {
+    height: 80vh;
+    margin-bottom: 2em;
+  }
+}
+
+table {
+  text-align: left;
+}
+
+th,
+td {
+  font-weight: normal;
+  border: 3px solid #edf2f7;
+}
+
+.text-block {
+  h1 {
+    //font-size: 1.5rem;
+    margin-bottom: 2rem;
+    font-size: 2.5rem;
+  }
+
+  p {
+    margin-bottom: 2rem;
+  }
+}
+
+.map-location {
+  display: none;
+  &.open {
+    display: block;
+  }
+}
+
+.page-title button:focus {
+  outline: none;
+}
+
+.max-w-xxs {
+  max-width: 15rem;
+}
+
+.max-h-70 {
+  max-height: 50vh;
+
+  @media (min-width: 720px) {
+    max-height: 70vh;
+  }
+}
+
+.min-h-70 {
+  min-height: 70vh;
+}
+
+.min-h-70 {
+  min-height: 70vh;
+}
+
+.h-70 {
+  height: 50vh;
+
+  @media (min-width: 720px) {
+    height: 70vh;
+  }
+}
+
+div > a.mapboxgl-ctrl-logo,
+.mapboxgl-ctrl-attrib-inner {
+  display: none;
+}
+
+.homepage-map .bg-gray-300 {
+  background-color: #6a52ff;
+}

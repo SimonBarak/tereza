@@ -1,0 +1,95 @@
+---
+label: project
+hide_body: true
+fields:
+- type: text
+  name: location
+  label: location
+- type: text
+  name: title
+  label: title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
+- name: category
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Stavba
+    - Návrh
+    - Film
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: category
+  description: typo of project
+- name: year
+  type: text
+  config:
+    required: false
+  label: year
+- type: text
+  name: size
+  label: size
+- type: text
+  name: price
+  label: price
+- type: image_gallery
+  name: images
+  label: images
+- name: latitude
+  type: number
+  label: Latitude
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  description: Latitude form map -> www.latlong.net
+- name: longitude
+  type: number
+  label: Longitude
+  description: Longitude for map pin
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- type: text
+  name: authors
+  label: authors
+  default: Markéta a Petr Veličkovi
+- type: text
+  name: investor
+  label: investor
+- type: text
+  name: visualization
+  label: visualization
+- type: text
+  name: slug
+  label: slug
+  hidden: true
+- type: text
+  name: layout
+  label: layout
+  default: project
+  config:
+    required: true
+  hidden: true
+pages:
+- _projects/název-projektu-11.md
+- _projects/project-2.md
+- _projects/archeopark-mikulčice.md
+- _projects/park-dukelská.md

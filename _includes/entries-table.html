@@ -1,0 +1,38 @@
+
+<table class="w-full text-lg">
+    <tr>
+      <th class="uppercase text-xs py-2 border-0 border-b border-gray-400 text-gray-400">
+        Název
+      </th>
+      <th class="uppercase text-xs py-2 border-0 border-b border-gray-400 text-gray-400">
+          Lokace
+        </th>
+      <th class="uppercase text-xs py-2 border-0 border-b border-gray-400 text-gray-400">
+          Kategorie
+      </th>
+      <th class="uppercase text-xs py-2 border-0 border-b border-gray-400 text-gray-400">
+           Rok
+        </th>
+      
+    </tr>
+    {%- for item in site.projects -%}
+    <tr class="hover:bg-gray-300">
+        <th class="py-4 border-0 border-b border-gray-700">
+          <a href="{{item.url}}">
+           {{item.title}} 
+          </a>
+        </th>
+        <th class="py-4 border-0 border-b border-gray-700">
+          {{item.location}}
+        </th>
+        <th class="py-4 border-0 border-b border-gray-700">
+            {{item.category}}
+        </th>
+        
+        <th class="py-4 border-0 border-b border-gray-700">
+          {{item.year}}
+        </th>
+    </tr>
+    {%-endfor -%}
+  </table>
+</div>

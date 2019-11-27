@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  {%- include head.html -%}
+  <body class="bg-gray-100 text-gray-800 font-body">
+    {%- include header.html -%}
+    <main class="mt-32 min-h-70">
+      {{ content }}
+    </main>
+    <section>
+      {%- include footer.html -%}
+    </section>
+    <script src="{{ site.baseurl }}{{
+        site.data.manifest['main.js']
+      }}"></script>
+  </body>
+</html>

@@ -1,0 +1,27 @@
+<div
+  id="entries"
+  class="entries md:max-w-2xl lg:max-w-5xl mx-auto"
+  data-view="cards"
+>
+  <div id="entry-contorls" class="p-2 text-2xl text-right">
+    <button class="view-switcher" data-mode="cards">
+      <c title="/topHalfWhiteSquare U+2B13 (SQUARE WITH BOTTOM HALF BLACK)"
+        >⬓</c
+      >
+    </button>
+    <button class="view-switcher" data-mode="table">
+      <c title="/Xi U+039E (GREEK CAPITAL LETTER XI)" class="">Ξ</c>
+    </button>
+  </div>
+  <div class="entries-cards">
+    {%- include entries-cards.html -%}
+  </div>
+
+  <div class="entries-table">
+    {%- include entries-table.html -%}
+  </div>
+
+  <div
+    class="flex flex-wrap justify-around lg:justify-between items-baseline"
+  ></div>
+</div>

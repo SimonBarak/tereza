@@ -1,0 +1,11 @@
+{% if include.href %}
+<a class="block" href="{{site.baseurl}}{{ include.href }}">
+  {% endif %}
+  <button
+    class="block w-full py-2 px-6 mb-4 hover:bg-gray-300 text-gray-600 text-xl text-left font-medium border-solid rounded border-2 border-gray-600"
+  >
+    {{ include.content }}
+  </button>
+  {% if include.href %}
+</a>
+{% endif %}

@@ -1,0 +1,13 @@
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link
+    rel="stylesheet"
+    href="{{ site.baseurl }}{{ site.data.manifest['docs.css'] }}"
+  />
+  <title>
+    {% if page.section == "home" %}{{ site.title }}{% else %}{{ page.title |
+    default: site.title }}{% endif %}
+  </title>
+  {% if jekyll.environment == 'production' and site.analytics %} {% include
+  analytics.html %} {% endif %}
+</head>

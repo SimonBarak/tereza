@@ -1,8 +1,0 @@
----
-label: gallery
-hide_body: true
-fields:
-- name: gallery
-  type: image_gallery
-  config: {}
-  label: gallery

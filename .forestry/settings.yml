@@ -5,7 +5,7 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: document
-  path: index.md
+  path: index.markdown
   label: Homepage feed
 - type: directory
   path: _projects

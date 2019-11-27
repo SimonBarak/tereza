@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: index.markdown
-  label: Homepage feed
+  label: Feed
 - type: directory
   path: _projects
   label: Projectos

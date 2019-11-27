@@ -2,7 +2,7 @@
 layout: home
 feed:
 - template: block-text
-  text: Hello this is my text
+  text: Oh yeah , those young breads.
 - template: block-image
   image: "/v1574864901/veronika-cechmankova/veronika-0_myc59w.jpg"
 - template: block-text

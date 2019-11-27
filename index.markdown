@@ -22,5 +22,8 @@ feed:
 - template: block-image
   image: "/v1574888195/veronika-cechmankova/veronika-16_mupu6z.jpg"
   caption: ''
+- template: block-image
+  image: "/v1574888294/veronika-cechmankova/veronika-18_b5f08o.jpg"
+  caption: ''
 
 ---

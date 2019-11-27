@@ -3,8 +3,10 @@ layout: home
 feed:
 - template: block-image
   image: "/v1574864900/veronika-cechmankova/veronika-15_ztoujd.jpg"
-  caption: How are you in Prague? Is this a Prague style?Where do you go for fun in
-    Prague?
+  caption: |-
+    - How are you in Prague?
+    Is this a Prague style?
+    Where do you go for fun in Prague?
 - template: block-text
   text: Oh yeah, those young breads.
 - template: block-image

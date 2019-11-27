@@ -83,9 +83,10 @@ nav {
   margin: 0 4px;
 }
 
-/* .swiper-container {
-  overflow: visible;
-} */
+.swiper-container[data-swiper="full-screen"] {
+  height: 100vh;
+  padding: 10vh 0;
+}
 
 .swiper-pagination {
   text-align: center;
@@ -103,7 +104,7 @@ nav {
   }
 
   .swiper-slide {
-    margin-bottom: 2em;
+    margin: 4em 0;
   }
 }
 

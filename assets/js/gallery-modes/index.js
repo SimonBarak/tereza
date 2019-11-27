@@ -77,7 +77,7 @@ export const galleryModes = mainEl => {
     mainEl
   };
 
-  linkedList(state, 1);
+  linkedList(state, 0);
 
   btns.forEach((item, index) =>
     item.addEventListener("click", () => linkedList(state, index))

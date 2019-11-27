@@ -7,7 +7,7 @@ const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 module.exports = {
   mode: isProduction ? "production" : "development",
   entry: {
-    docs: path.resolve(__dirname, "./assets/index.css"),
+    docs: path.resolve(__dirname, "./assets/index.scss"),
     main: path.resolve(__dirname, "./assets/index.js")
   },
   output: {
@@ -18,7 +18,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.css$/,
+        test: /\.scss$/,
         use: [
           {
             loader: MiniCssExtractPlugin.loader,

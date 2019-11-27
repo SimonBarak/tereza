@@ -6,7 +6,7 @@ export const swiperParameters = {
     prevEl: ".swiper-prev"
   },
   autoplay: {
-    delay: 300
+    delay: 3000
   },
   keyboard: {
     enabled: true,

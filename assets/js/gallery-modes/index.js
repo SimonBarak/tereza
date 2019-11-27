@@ -22,12 +22,12 @@ const linkedList = (state, index) => {
 
   if (mode === "scroll") {
     console.log(mode);
-    // if (state.swiper) {
-    //   state.swiper.destroy(true, true);
-    //   state.swiper = false;
-    // }
+    if (state.swiper) {
+      state.swiper.destroy(true, true);
+      state.swiper = false;
+    }
 
-    // startScroll(state);
+    startScroll(state);
 
     window.onkeydown = e => {
       if (e.key == "s") {
@@ -65,12 +65,11 @@ const linkedList = (state, index) => {
 };
 
 export const galleryModes = mainEl => {
-  console.log(mainEl);
   const btns = Array.from(mainEl.getElementsByClassName("btn-mode"));
 
   let state = {
     currentIndex: 0,
-    mode: "slide",
+    mode: null,
     swiper: null,
     scrolldelay: null,
     scrollSpeed: 30,
@@ -78,7 +77,7 @@ export const galleryModes = mainEl => {
     mainEl
   };
 
-  linkedList(state, 2);
+  linkedList(state, 1);
 
   btns.forEach((item, index) =>
     item.addEventListener("click", () => linkedList(state, index))

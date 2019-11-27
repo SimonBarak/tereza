@@ -2,11 +2,4 @@
 layout: default
 ---
 
-{% for block in page.feed %} {% assign template = block.template %} {% case
-template %} {% when 'block-text' %}
-
-<section class="py-20">{% include blocks/block-text.html %}</section>
-{% when 'block-image' %}
-<section class="py-20">{% include blocks/block-image.html %}</section>
-
-{% endcase %} {% endfor %}
+{% include feed.html %}

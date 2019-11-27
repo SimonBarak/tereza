@@ -88,3 +88,5 @@ fields:
   config:
     required: true
   hidden: true
+pages:
+- _projects/digita-naive.md

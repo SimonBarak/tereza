@@ -28,6 +28,8 @@ feed:
 - template: block-text
   text: This morning it was either a group of liquindi
 - template: block-text
-  text: ''
+  text: |-
+    paper that woke me up from a
+     dream of you
 
 ---

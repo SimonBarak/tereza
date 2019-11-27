@@ -1,13 +1,7 @@
 ---
 layout: home
 feed:
-- template: project
-  layout: project
-  title: Hello
-  description: ''
-  category: ''
-  year: ''
-  images: []
-  slug: ''
+- template: text-paragraf
+  text: Ahoj tohle je text v paragrafu
 
 ---

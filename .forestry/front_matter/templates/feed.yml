@@ -2,11 +2,12 @@
 label: feed
 hide_body: true
 fields:
-- type: text
-  name: layout
-  label: layout
 - name: feed
   type: include
   config: {}
   template: feed
   label: feed
+- type: text
+  name: layout
+  label: layout
+  hidden: true

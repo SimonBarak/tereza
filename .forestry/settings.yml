@@ -4,17 +4,11 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
-- type: document
-  path: ''
-  label: homepage
 - type: directory
   path: _projects
   label: Projects
   create: all
   match: "**/*"
-- type: document
-  path: _data/information.yml
-  label: Informations
 upload_dir: veronika-cechmankova
 public_path: ''
 front_matter_path: ''

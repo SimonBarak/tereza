@@ -5,9 +5,8 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: document
-  path: ''
+  path: index.md
   label: Homepage feed
-  match: "**/*"
 - type: directory
   path: _projects
   label: Projectos

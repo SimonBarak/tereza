@@ -1,13 +1,11 @@
-<div class="max-w-xl text-2xl mx-auto px-4 text-block">
-  <img
-    srcset="
-      {{ site.img_url }}w_500{{ block.image }} 500w,
-      {{ site.img_url }}w_710{{ block.image }} 710w,
-      {{ site.img_url }}w_1000{{ block.image }} 1000w,
-      {{ site.img_url }}w_1420{{ block.image }} 1420w"
-    src="{{ site.img_url }}w_500{{ block.image }}"
-    sizes="100vw"
-    alt="{{ page.title }}, {{ site.title }}"
-    class="h-70 object-contain mx-auto shadow-xl"
-  />
-</div>
+<img
+  srcset="
+    {{ site.img_url }}w_500{{ block.image }} 500w,
+    {{ site.img_url }}w_710{{ block.image }} 710w,
+    {{ site.img_url }}w_1000{{ block.image }} 1000w,
+    {{ site.img_url }}w_1420{{ block.image }} 1420w"
+  src="{{ site.img_url }}w_500{{ block.image }}"
+  sizes="100vw"
+  alt="{{ page.title }}, {{ site.title }}"
+  class="object-cover h-full m-auto"
+/>

@@ -11,6 +11,7 @@ const linkedList = (state, index) => {
   const prevModeBtn = btns[currentIndex];
   const currentModeBtn = btns[index];
   const mode = currentModeBtn.getAttribute("mode");
+  console.log(mode);
 
   // SWITCH MODE
   if (prevModeBtn) {
@@ -21,7 +22,6 @@ const linkedList = (state, index) => {
   state.mainEl.setAttribute("mode", mode);
 
   if (mode === "scroll") {
-    console.log(mode);
     if (state.swiper) {
       state.swiper.destroy(true, true);
       state.swiper = false;
@@ -58,6 +58,22 @@ const linkedList = (state, index) => {
     if (mode === "strobo") {
       state.swiper.autoplay.start();
     }
+
+    window.addEventListener(
+      "scroll",
+      function() {
+        state.swiper.slideNext();
+      },
+      false
+    );
+
+    window.addEventListener(
+      "mousewheel",
+      function() {
+        state.swiper.slideNext();
+      },
+      false
+    );
   }
 
   state.currentIndex = index;
@@ -96,6 +112,3 @@ export const galleryModes = mainEl => {
     }
   });
 };
-
-// const SwitcherEl = document.querySelector(".swiper-container");
-// if (SwitcherEl) SwitcherApp(SwitcherEl);

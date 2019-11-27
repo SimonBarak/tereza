@@ -1,5 +1,14 @@
----
-layout: default
----
-
-{% include feed.html %}
+<!DOCTYPE html>
+<html lang="en">
+  {%- include head.html -%}
+  <body class="bg-gray-900 text-indigo-600 font-body">
+    {%- include header.html -%}
+    <main class="min-h-70">
+      {% include feed.html %}
+    </main>
+    <section></section>
+    <script src="{{ site.baseurl }}{{
+        site.data.manifest['main.js']
+      }}"></script>
+  </body>
+</html>

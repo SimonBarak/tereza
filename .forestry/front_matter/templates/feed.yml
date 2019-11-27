@@ -2,15 +2,6 @@
 label: feed
 hide_body: true
 fields:
-- name: feed
-  type: blocks
-  label: feed
-  template_types:
-  - text-paragraf
-  - gallery
-  config:
-    min: 
-    max: 
 - type: text
   name: layout
   label: layout

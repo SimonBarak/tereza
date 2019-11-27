@@ -15,10 +15,10 @@ sections:
 - type: document
   path: _data/information.yml
   label: Informations
-upload_dir: archweb
+upload_dir: veronika-cechmankova
 public_path: ''
-front_matter_path: https://res.cloudinary.com/dhxmg9p4i/image/archweb
-use_front_matter_path: false
+front_matter_path: ''
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:

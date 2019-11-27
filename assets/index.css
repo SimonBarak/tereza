@@ -177,3 +177,7 @@ div > a.mapboxgl-ctrl-logo,
 .homepage-map .bg-gray-300 {
   background-color: #6a52ff;
 }
+
+#main-nav__button {
+  filter: blur(2px);
+}

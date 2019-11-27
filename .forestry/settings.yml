@@ -15,7 +15,6 @@ sections:
 - type: document
   path: ''
   label: homepage
-  match: "**/*"
 upload_dir: archweb
 public_path: ''
 front_matter_path: https://res.cloudinary.com/dhxmg9p4i/image/archweb

@@ -8,7 +8,11 @@ fields:
     maxSize: 250
   label: Image
 - name: caption
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: caption

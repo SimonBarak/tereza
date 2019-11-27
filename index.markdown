@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+feed:
+- template: text-paragraf
+  text: Ahoj tohle je text v paragrafu
+- template: block-text
+  text: Hello this is my text
+- template: block-image
+  image: "/v1574864901/veronika-cechmankova/veronika-0_myc59w.jpg"
+
 ---

@@ -1,0 +1,19 @@
+---
+label: feed
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- name: feed
+  type: blocks
+  label: feed
+  template_types:
+  - block-text
+  - block-image
+  config:
+    min: 
+    max: 
+pages:
+- index.markdown

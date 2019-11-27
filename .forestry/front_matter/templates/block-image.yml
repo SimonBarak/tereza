@@ -1,0 +1,9 @@
+---
+label: block-image
+hide_body: true
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image

@@ -6,7 +6,7 @@ fields:
   type: blocks
   label: feed
   template_types:
-  - project
+  - text-paragraf
   config:
     min: 
     max: 

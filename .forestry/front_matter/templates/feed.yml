@@ -2,14 +2,15 @@
 label: feed
 hide_body: true
 fields:
+- name: feed
+  type: blocks
+  label: feed
+  template_types:
+  - project
+  config:
+    min: 
+    max: 
 - type: text
   name: layout
   label: layout
   hidden: true
-- name: feed
-  type: blocks
-  label: feed
-  template_types: []
-  config:
-    min: 
-    max: 

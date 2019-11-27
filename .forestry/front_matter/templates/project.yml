@@ -88,8 +88,3 @@ fields:
   config:
     required: true
   hidden: true
-pages:
-- _projects/název-projektu-11.md
-- _projects/project-2.md
-- _projects/archeopark-mikulčice.md
-- _projects/park-dukelská.md

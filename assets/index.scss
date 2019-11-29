@@ -117,8 +117,8 @@ nav {
 }
 
 .fade-slide {
-  filter: blur(20px);
-  transition: filter 1s ease-in;
+  filter: blur(50px);
+  transition: filter 0.7s ease-in;
 
   &.swiper-slide-active {
     filter: blur(0);

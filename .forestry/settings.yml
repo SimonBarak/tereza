@@ -9,7 +9,7 @@ sections:
   label: Feed
 - type: directory
   path: _projects
-  label: Projectos
+  label: Projects
   create: all
   match: "**/*"
 upload_dir: veronika-cechmankova

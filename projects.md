@@ -1,5 +1,5 @@
 ---
 layout: project-index
-title: Projekty
-permalink: /projekty/
+title: Projects
+permalink: /projects/
 ---

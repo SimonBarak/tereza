@@ -1,6 +1,6 @@
 # specify main menu items here
 
-- text: Projekty
-  url: /projekty
+- text: Projects
+  url: /Projects
 - text: About
   url: /about

@@ -1,5 +1,5 @@
 @import url("https://rsms.me/inter/inter.css");
-// @import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
 @import "swiper/swiper.scss";
 
 @import "tailwindcss/base";
@@ -35,21 +35,21 @@
 header {
   background: linear-gradient(
     to bottom,
-    rgba(26, 32, 44, 1) 0%,
-    rgba(26, 32, 44, 0) 100%
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 0) 100%
   );
 }
 
 .gradient-botom {
   background: linear-gradient(
     to bottom,
-    rgba(26, 32, 44, 0) 0%,
-    rgba(26, 32, 44, 1) 100%
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 245, 200, 1) 100%
   );
 }
 
 nav {
-  background-color: rgba(30, 30, 30, 0.7);
+  background-color: rgba(255, 245, 200, 0.5);
 }
 
 .swiper-next {
@@ -351,4 +351,8 @@ input[type="range"] {
   }
   &:focus::-ms-fill-upper {
   }
+}
+
+.swiper-mode-controls {
+  top: 93vh;
 }

@@ -4,10 +4,12 @@
     template %} {% when 'block-text' %}
 
     <section class="flex swiper-slide fade-slide">
-      {% include blocks/block-text.html %}
+      <div class="self-center w-full">
+        {% include blocks/block-text.html %}
+      </div>
     </section>
     {% when 'block-image' %}
-    <section class="swiper-slide fade-slide">
+    <section class="flex swiper-slide fade-slide">
       {% include blocks/block-image.html %}
     </section>
 

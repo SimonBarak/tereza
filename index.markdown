@@ -25,7 +25,7 @@ feed:
 - template: block-text
   text: This morning it was either a group of liquindi
 - template: block-image
-  image: "/v1574888195/veronika-cechmankova/veronika-16_mupu6z.jpg"
+  image: "/v1575642888/veronika-cechmankova/kabel_y5btmf.jpg"
   caption: ''
 - template: block-text
   text: |-

@@ -20,3 +20,5 @@ fields:
   config:
     required: false
     color_format: Hex
+pages:
+- _data/styles.yml

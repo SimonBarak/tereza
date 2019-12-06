@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Futura
+title: Work Hard In Silence
 description: desription for futura
 category: ''
 year: "2019"

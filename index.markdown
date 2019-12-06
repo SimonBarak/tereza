@@ -12,7 +12,7 @@ feed:
   image: "/v1574888294/veronika-cechmankova/veronika-18_b5f08o.jpg"
   caption: ''
 - template: block-image
-  image: "/v1574864900/veronika-cechmankova/veronika-15_ztoujd.jpg"
+  image: "/v1575643176/veronika-cechmankova/_DSC9673_a3bjuv.jpg"
   caption: |-
     - How are you in Prague?
     Is this a Prague style?

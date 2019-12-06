@@ -1,0 +1,13 @@
+---
+label: styles
+hide_body: true
+fields:
+- type: text
+  name: color
+  label: color
+- type: text
+  name: bg-top
+  label: bg-top
+- type: text
+  name: bg-bottom
+  label: bg-bottom

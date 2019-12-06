@@ -6,7 +6,7 @@ feed:
 - template: block-text
   text: I just wanted to... I wanted. How it to say. I just wanted to say, that…
 - template: block-image
-  image: "/v1574864901/veronika-cechmankova/veronika-0_myc59w.jpg"
+  image: "/v1575642120/veronika-cechmankova/2_qwnxjm.jpg"
   caption: ''
 - template: block-image
   image: "/v1575642993/veronika-cechmankova/DSC_0401_jh28hy.jpg"

@@ -7,8 +7,8 @@ const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 module.exports = {
   mode: isProduction ? "production" : "development",
   entry: {
-    docs: path.resolve(__dirname, "./assets/index.scss"),
-    main: path.resolve(__dirname, "./assets/index.js")
+    docs: path.resolve(__dirname, "./dev/index.scss"),
+    main: path.resolve(__dirname, "./dev/index.js")
   },
   output: {
     path: path.resolve(__dirname, "./dist/"),
@@ -29,6 +29,18 @@ module.exports = {
           "css-loader",
           "postcss-loader",
           "sass-loader"
+        ]
+      },
+      {
+        test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+        use: [
+          {
+            loader: "file-loader",
+            options: {
+              name: "[name].[ext]",
+              outputPath: "fonts/"
+            }
+          }
         ]
       }
     ]

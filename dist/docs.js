@@ -81,19 +81,19 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./assets/index.scss");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./dev/index.scss");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./assets/index.scss":
-/*!***************************!*\
-  !*** ./assets/index.scss ***!
-  \***************************/
+/***/ "./dev/index.scss":
+/*!************************!*\
+  !*** ./dev/index.scss ***!
+  \************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("// extracted by mini-css-extract-plugin\n    if(false) { var cssReload; }\n  \n\n//# sourceURL=webpack:///./assets/index.scss?");
+eval("// extracted by mini-css-extract-plugin\n    if(false) { var cssReload; }\n  \n\n//# sourceURL=webpack:///./dev/index.scss?");
 
 /***/ })
 

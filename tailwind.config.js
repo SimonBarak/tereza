@@ -1,8 +1,8 @@
 module.exports = {
   theme: {
     fontFamily: {
-      display: ["Poppins", "Inter", "sans-serif"],
-      body: ["Poppins", "Inter", "sans-serif"]
+      display: ["Groupe", "sans-serif"],
+      body: ["Inter", "sans-serif"]
     }
   }
 };

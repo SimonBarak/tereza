@@ -20,7 +20,7 @@ feed:
 - template: block-text
   text: It is  back here again, she is getting bored.
 - template: block-image
-  image: "/v1574864900/veronika-cechmankova/veronika-14_vvoqxt.jpg"
+  image: "/v1575642120/veronika-cechmankova/3_ma9g1o.jpg"
   caption: ''
 - template: block-text
   text: This morning it was either a group of liquindi

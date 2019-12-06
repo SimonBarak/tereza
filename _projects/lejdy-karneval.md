@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Lejdy Karneval
+title: Craft Boys
 description: This is description of project
 category: ''
 year: "2019"

@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   {%- include head.html -%}
-  <body class="font-body gradient-botom">
+  <body
+    class="font-body"
+    style="color: {{site.data.styles.color}}; background: linear-gradient(
+      to bottom,
+      {{site.data.styles.bg-top}} 0%,
+      {{site.data.styles.bg-bottom}} 100%
+      )"
+  >
     {%- include header.html -%}
     <main class="min-h-70">
       {{ content }}

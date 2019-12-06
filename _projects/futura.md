@@ -5,8 +5,9 @@ description: desription for futura
 category: ''
 year: "2019"
 images:
-- "/v1574864898/veronika-cechmankova/veronika-11_b89wci.jpg"
-- "/v1574864899/veronika-cechmankova/veronika-10_jnm9fl.jpg"
+- "/v1575642888/veronika-cechmankova/zehlicka_ruezrl.jpg"
+- "/v1575642888/veronika-cechmankova/kabel_y5btmf.jpg"
+- "/v1575642993/veronika-cechmankova/DSC_0401_jh28hy.jpg"
 slug: ''
 
 ---

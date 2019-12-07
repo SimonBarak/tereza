@@ -51,5 +51,6 @@ fields:
   hidden: true
 pages:
 - _projects/digita-naive.md
+- _projects/glori.md
 - _projects/lejdy-karneval.md
 - _projects/futura.md

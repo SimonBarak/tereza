@@ -2,7 +2,7 @@
 layout: home
 feed:
 - template: block-text
-  text: Oh yeah, those young breads.
+  text: Work hard in silence, let success be the noise.
 - template: block-text
   text: I just wanted to... I wanted. How it to say. I just wanted to say, that…
 - template: block-image

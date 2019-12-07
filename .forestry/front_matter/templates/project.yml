@@ -50,6 +50,7 @@ fields:
     required: true
   hidden: true
 pages:
+- _projects/glori.md
 - _projects/digita-naive.md
 - _projects/lejdy-karneval.md
 - _projects/futura.md

@@ -1,0 +1,16 @@
+---
+layout: project
+title: Glori
+description: ''
+category: ''
+year: "2018"
+images:
+- "/v1575738001/veronika-cechmankova/43134392_182120909348408_5049261676000444416_n_tg6xnd.jpg"
+- "/v1575738001/veronika-cechmankova/41704062_1510261029120306_2158927339252088832_o-706x1060_j1knde.jpg"
+- "/v1575738001/veronika-cechmankova/43174319_2100177666902745_4148007237551390720_n_rvpziv.jpg"
+- "/v1575738001/veronika-cechmankova/41668531_1510260549120354_702524111229812736_o-1060x706_fucolz.jpg"
+- "/v1575738000/veronika-cechmankova/41827719_1510260652453677_6127579929388253184_o-706x1060_mmwkkf.jpg"
+slug: ''
+published: false
+
+---

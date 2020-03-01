@@ -1,11 +1,13 @@
 ---
 layout: project
-title: Work Hard In Silence
-description: Fashion chains serves us everyday a huge amount of clothes with camouflage
-  patterns and glitter cute texts as Brave girl, Military princess, etc. Game industry
-  showing semi-naked women heroes fighting with wickedness. I took a picture in scene
-  of girly room I made and posted it on Facebook page for military advices. Waiting
-  for the comments, I actually really applied for military course in army.
+title: S.A.D.
+description: S.A.D. or seasonl affective disorder exhibits depressive symptoms, mostly
+  common in winter months, when we suffer from lack of Vitamin D and serotonin. When
+  we can’t get enough natural sun light, the we have to help ourselves. SAD lights
+  are visors caps made exactly for you! You can easily wear them on the head during
+  all day. Inside of the visors is attched light. Visor is not limiting you during
+  your favourite physical activity. Choose your design and enjoy your new winter full
+  of happiness!
 category: ''
 year: "2017"
 images:

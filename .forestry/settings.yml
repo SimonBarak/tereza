@@ -5,6 +5,10 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: document
+  path: about
+  label: About
+  match: "**/*"
+- type: document
   path: index.markdown
   label: Feed
 - type: directory

@@ -1,5 +1,10 @@
-<div class="flex flex-wrap justify-around lg:justify-between items-baseline">
-  {%- for item in site.projects -%}
-  <div class="p-2 lg:pb-5">{%- include project-card-md.html -%}</div>
+<div class="flex flex-wrap items-baseline">
+  {% assign items = site.projects | sort: 'weight' %}
+  <!-- . -->
+  {%- for item in items -%}
+  <div class="entrie p-2 pb-3" data-tag="{{item.category}}">
+    {%- include project-card-md.html headline=item.title subline=item.year
+    tag=item.category -%}
+  </div>
   {%-endfor -%}
 </div>

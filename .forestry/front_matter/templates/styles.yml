@@ -2,23 +2,23 @@
 label: styles
 hide_body: true
 fields:
-- name: color
-  type: color
-  label: Text color
-  config:
-    required: false
-    color_format: Hex
-- name: bg-top
-  type: color
-  config:
-    required: false
-    color_format: Hex
-  label: Gradient top
-- name: bg-bottom
-  type: color
-  label: Gradient bottom
-  config:
-    required: false
-    color_format: Hex
+  - name: color
+    type: color
+    label: Text color
+    config:
+      required: false
+      color_format: Hex
+  - name: bg-top
+    type: color
+    config:
+      required: false
+      color_format: Hex
+    label: Gradient top
+  - name: bg-bottom
+    type: color
+    label: Gradient bottom
+    config:
+      required: false
+      color_format: Hex
 pages:
-- _data/styles.yml
+  - _data/styles.yml

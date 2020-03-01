@@ -6,7 +6,7 @@
   "scripts": {
     "prod": "NODE_ENV=production webpack",
     "dev": "NODE_ENV=development webpack",
-    "start": "NODE_ENV=development webpack --watch | jekyll serve"
+    "start": "code . | NODE_ENV=development webpack --watch | bundle exec jekyll serve"
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^1.3.0",

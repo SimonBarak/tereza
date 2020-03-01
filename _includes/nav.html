@@ -1,10 +1,10 @@
 <nav id="navmenu" class="fixed w-full min-h-full top-0 right-0 z-10 hidden">
   {% assign navurl = page.url | remove: 'index.html' %}
-  <ul class="man-nav__items mx-auto my-32 lg:my-40 border-solid border-t-2 border-gray-600">
+  <ul class="man-nav__items mx-auto lg:my-20 border border-t-2 border-blue-600">
     {% for item in include.navigation %}
     <li>
       <a
-        class="flex py-5 px-6 hover:bg-gray-300 text-3xl md:text-4xl lg:text-6xl border-solid border-b-2 border-gray-600"
+        class="flex py-5 px-6 hover:bg-gray-300 text-3xl md:text-5xl text-blue-600 border border-b-2 border-blue-600"
         href="{{ item.url | relative_url }}"
         {% if item.url == navurl %} data-current="current page"{% endif %}
         >

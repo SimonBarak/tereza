@@ -1,32 +1,37 @@
-
 <table class="w-full text-lg">
-    <tr>
-      <th class="uppercase text-xs py-2 border-0 border-b border-gray-400">
-        Název
+  <tr>
+    <th class="uppercase text-xs py-2 border-0 border-b-2 border-gray-300 text-gray-400">
+      Název
+    </th>
+    <th class="uppercase text-xs py-2 border-0 border-b-2 border-gray-300 text-gray-400">
+        Lokace
       </th>
-      <th class="uppercase text-xs py-2 border-0 border-b border-gray-400">
-          Kategorie
+    <th class="uppercase text-xs py-2 border-0 border-b-2 border-gray-300 text-gray-400">
+        Kategorie
+    </th>
+    <th class="uppercase text-xs py-2 border-0 border-b-2 border-gray-300 text-gray-400">
+         Rok
       </th>
-      <th class="uppercase text-xs py-2 border-0 border-b border-gray-400">
-           Rok
-        </th>
+    
+  </tr>
+  {% assign items = site.projects | sort: 'weight' %}
+  {%- for item in items -%}
+  
+  <tr class="hover:bg-gray-300 entrie" data-tag="{{item.category}}">
+      <th class="border-0 border-b-2 border-gray-300 p-0">
+        <a class="block" href="{{item.url}}"><span><img class="w-24 inline" src="{{ site.img_url }}c_thumb,w_350,h_220{{ item.images[0] }}" alt=""></span><span class="py-4 pl-2">{{item.title}}</span></a>
+      </th>
+      <th class="border-0 border-b-2 border-gray-300">
+          <a class="block py-4" href="{{item.url}}"><span>{{item.location}}</span></a>  
+      </th>
+      <th class="border-0 border-b-2 border-gray-300">
+          <a class="block py-4" href="{{item.url}}"><span>{{item.category}}</span></a>      
+      </th>
       
-    </tr>
-    {%- for item in site.projects -%}
-    <tr class="hover:bg-gray-300">
-        <th class="py-4 border-0 border-b border-gray-700">
-          <a href="{{item.url}}">
-           {{item.title}} 
-          </a>
-        </th>
-        <th class="py-4 border-0 border-b border-gray-700">
-            {{item.category}}
-        </th>
-        
-        <th class="py-4 border-0 border-b border-gray-700">
-          {{item.year}}
-        </th>
-    </tr>
-    {%-endfor -%}
-  </table>
+      <th class="border-0 border-b-2 border-gray-300">
+          <a class="block py-4" href="{{item.url}}"><span>{{item.year}}</span></a>
+      </th>
+  </tr>
+  {%-endfor -%}
+</table>
 </div>

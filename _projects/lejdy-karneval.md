@@ -11,6 +11,6 @@ images:
 - "/v1575642120/veronika-cechmankova/1_xol9o7.jpg"
 - "/v1575642120/veronika-cechmankova/2_qwnxjm.jpg"
 slug: ''
-weight: 8000
+weight: 
 
 ---

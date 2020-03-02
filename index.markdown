@@ -24,9 +24,5 @@ feed:
 - template: block-image
   image: "/v1583108772/veronika-cechmankova/_MG_0423_0_33x_ntjbii.png"
   caption: ''
-- template: block-text
-  text: |-
-    paper that woke me up from a
-     dream of you
 
 ---

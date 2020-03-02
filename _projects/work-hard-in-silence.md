@@ -11,12 +11,10 @@ description: S.A.D. or seasonl affective disorder exhibits depressive symptoms, 
 category: ''
 year: "2017"
 images:
-- "/v1575642888/veronika-cechmankova/zehlicka_ruezrl.jpg"
-- "/v1575737027/veronika-cechmankova/zrc2_y5bcgr.jpg"
-- "/v1575737037/veronika-cechmankova/zvrchu_rnyhzq.jpg"
-- "/v1575642991/veronika-cechmankova/_MG_0947_kopie_fbrsbn.jpg"
-- "/v1575642888/veronika-cechmankova/kabel_y5btmf.jpg"
-- "/v1575642993/veronika-cechmankova/DSC_0401_jh28hy.jpg"
+- "/v1583108123/veronika-cechmankova/IMG_0268_0_33x_nn61g4.png"
+- "/v1583108106/veronika-cechmankova/IMG_0249_0_33x_qurrhk.png"
+- "/v1583108106/veronika-cechmankova/Screenshot_2020-03-02_at_01.00.07_rakljy.png"
+- "/v1583108111/veronika-cechmankova/Screenshot_2020-03-02_at_00.59.57_oeja2k.png"
 slug: ''
 weight: 8000
 

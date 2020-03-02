@@ -12,5 +12,8 @@ images:
 - "/v1575642120/veronika-cechmankova/2_qwnxjm.jpg"
 slug: ''
 weight: 10000
+embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/2en79SoRNpI"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 
 ---

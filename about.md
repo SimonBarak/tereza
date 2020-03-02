@@ -10,44 +10,62 @@ terezavinklarkova@gmail.com
 
 **Studies**
 
-2015-now   FaVU VUT, Brno, CZ
+**2015-now**   FaVU VUT, Brno, CZ
 
-2018           KASK & Conservatorium, Ghent, BE
+**2018**           KASK & Conservatorium, Ghent, BE
 
-2017           Estonian Academy of Fine Arts, Tallinn, EE
+**2017**           Estonian Academy of Fine Arts, Tallinn, EE
 
 **Exhibitions**
 
-2020            Too Cool To Pretend To Care, Umakart, Brno, CZ
+**2020**            
 
-2019             Day Off: Final Downcycling, Rainbow gallery, Prostejov, CZ
+Too Cool To Pretend To Care, Umakart, Brno, CZ
 
-                     Free Life, Jeleni gallery, Prague, CZ
+**2019**            
 
-2018             lilky_60200, Umakart, Brno, CZ
+Day Off: Final Downcycling, Rainbow gallery, Prostejov, CZ
 
-                     Gloriya Komarova, Monomach, Brno, CZ
+Free Life, Jeleni gallery, Prague, CZ
 
-                     Urban Skanzen, Clam-Gallais palace, Prague, CZ
+**2018**             
 
-2017              Miracle, ISFAG, Tallinn, EE
+lilky_60200, Umakart, Brno, CZ
 
-                      Navid Foundation, NAVID, Tallinn, EE
+Gloriya Komarova, Monomach, Brno, CZ
 
-                      The Last Word, Nova Cvernovka, Gallery IN:OUT, Bratislava, SK
+Urban Skanzen, Clam-Gallais palace, Prague, CZ
 
-2016               AFTERLIFE, Tschechisches Zentrum, Berlin, DE
+**2017**              
+
+Miracle, ISFAG, Tallinn, EE
+
+Navid Foundation, NAVID, Tallinn, EE
+
+The Last Word, Nova Cvernovka, Gallery IN:OUT, Bratislava, SK
+
+**2016**               
+
+AFTERLIFE, Tschechisches Zentrum, Berlin, DE
 
 **Performance**
 
-2019               lilky60200/Purifying therapy, Camp As One, Vityazevo, RU
+**2019**               
 
-2018               Homepage, Mala Noc Mody, Brno, CZ
+lilky60200/Purifying therapy, Camp As One, Vityazevo, RU
 
-2016               Re-performance, Crashtest festival, Prague, CZ
+**2018**               
 
-2015               Washing Patience, House of Arts, Brno, CZ
+Homepage, Mala Noc Mody, Brno, CZ
 
-                       Malamut festival, Ostrava, CZ
+**2016**               
 
-                       Chaos festival Stritez, CZ              
+Re-performance, Crashtest festival, Prague, CZ
+
+**2015**               
+
+Washing Patience, House of Arts, Brno, CZ
+
+Malamut festival, Ostrava, CZ
+
+Chaos festival Stritez, CZ              

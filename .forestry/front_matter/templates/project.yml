@@ -2,6 +2,11 @@
 label: project
 hide_body: true
 fields:
+- name: video
+  type: text
+  config:
+    required: false
+  label: video
 - name: weight
   type: number
   label: weight
@@ -59,15 +64,6 @@ fields:
   config:
     required: true
   hidden: true
-- name: embed
-    type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: html
-  label: embed
 pages:
 - _projects/digita-naive.md
 - _projects/futura.md

@@ -2,11 +2,11 @@
 label: project
 hide_body: true
 fields:
-- name: video
+- name: embed
   type: text
   config:
     required: false
-  label: video
+  label: embed
 - name: weight
   type: number
   label: weight

@@ -22,7 +22,7 @@ feed:
 - template: block-text
   text: It is the Sun, stupid.
 - template: block-image
-  image: "/v1575642888/veronika-cechmankova/kabel_y5btmf.jpg"
+  image: "/v1583108772/veronika-cechmankova/_MG_0423_0_33x_ntjbii.png"
   caption: ''
 - template: block-text
   text: |-

@@ -23,3 +23,31 @@ terezavinklarkova@gmail.com
 2019             Day Off: Final Downcycling, Rainbow gallery, Prostejov, CZ
 
                      Free Life, Jeleni gallery, Prague, CZ
+
+2018             lilky_60200, Umakart, Brno, CZ
+
+                     Gloriya Komarova, Monomach, Brno, CZ
+
+                     Urban Skanzen, Clam-Gallais palace, Prague, CZ
+
+2017              Miracle, ISFAG, Tallinn, EE
+
+                      Navid Foundation, NAVID, Tallinn, EE
+
+                      The Last Word, Nova Cvernovka, Gallery IN:OUT, Bratislava, SK
+
+2016               AFTERLIFE, Tschechisches Zentrum, Berlin, DE
+
+**Performance**
+
+2019               lilky60200/Purifying therapy, Camp As One, Vityazevo, RU
+
+2018               Homepage, Mala Noc Mody, Brno, CZ
+
+2016               Re-performance, Crashtest festival, Prague, CZ
+
+2015               Washing Patience, House of Arts, Brno, CZ
+
+                       Malamut festival, Ostrava, CZ
+
+                       Chaos festival Stritez, CZ              

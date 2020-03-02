@@ -18,7 +18,7 @@ feed:
     Is this a Prague style?
     Where do you go for fun in Prague?
 - template: block-text
-  text: It is  back here again, she is getting bored.
+  text: Let your imagination run wild.
 - template: block-image
   image: "/v1575642120/veronika-cechmankova/3_ma9g1o.jpg"
   caption: ''

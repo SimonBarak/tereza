@@ -26,6 +26,6 @@ longitude:
 investor: ''
 visualization: ''
 slug: ''
-weight: 
+weight: 4000
 
 ---

@@ -2,6 +2,19 @@
 layout: default
 ---
 
+{% if page.video %}
+<section class="mt-32">
+  <iframe
+    class="mx-auto"
+    width="560"
+    height="315"
+    src="{{page.video}}"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</section>
+{% endif %}
 <section class="mt-32">
   <div class="mx-auto pb-4">
     {%- include gallery-images.html -%}

@@ -1,6 +1,8 @@
 ---
 layout: home
 feed:
+  - template: block-video
+    video: "https://www.youtube.com/embed/1_-VYoiiBaU"
   - template: block-text
     text: Work hard in silence, let success be the noise.
   - template: block-text

@@ -1,7 +1,10 @@
 ---
 layout: project
 title: You Should Help It Too
-description: ''
+description: |-
+  You Should Help It Too is second part of project Too Cool To Pretend To Care. In this part Gloriya showing us third geoengineering method - ocean fertilisation.
+
+  The aim of the project is to capture the consumer approach of society, the culture of millennials, fake news, as well as planetary and societal changes. It presents a stylized post-ironic testimony of somehow narcissistic millennials whose social platforms have become the main platform for expression, forcing us to reflect on the multitude of information we surround each day and the necessity of their selection.
 category: ''
 year: "2020"
 images:

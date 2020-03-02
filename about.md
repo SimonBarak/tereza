@@ -4,7 +4,7 @@ layout: about
 ---
 # Hello, my name is Tereza, but you can call me Gloriya
 
-**1996. Based in Brno. Working under pseudonym Gloriya Komarova**
+**1996. Based in Brno. Working under pseudonym Gloriya Komarova.**
 
 terezavinklarkova@gmail.com
 

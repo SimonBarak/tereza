@@ -11,14 +11,11 @@ feed:
 - template: block-image
   image: "/v1575642120/veronika-cechmankova/2_qwnxjm.jpg"
   caption: ''
-- template: block-image
-  image: "/v1575643176/veronika-cechmankova/_DSC9673_a3bjuv.jpg"
-  caption: |-
-    - How are you in Prague?
-    Is this a Prague style?
-    Where do you go for fun in Prague?
 - template: block-text
   text: Let your imagination run wild.
+- template: block-image
+  image: "/v1583108123/veronika-cechmankova/IMG_0268_0_33x_nn61g4.png"
+  caption: ''
 - template: block-image
   image: "/v1575642120/veronika-cechmankova/3_ma9g1o.jpg"
   caption: ''

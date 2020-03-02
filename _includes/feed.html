@@ -3,6 +3,11 @@
     {% for block in page.feed %} {% assign template = block.template %} {% case
     template %} {% when 'block-text' %}
 
+    {% when 'block-embed' %}
+    <section class="flex swiper-slide fade-slide">
+      {% include blocks/block-embed.html %}
+    </section>
+    {% when 'block-text' %}
     <section class="flex swiper-slide fade-slide">
       <div class= w-full">
         {% include blocks/block-text.html %}

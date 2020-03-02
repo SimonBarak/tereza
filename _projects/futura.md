@@ -16,7 +16,9 @@ images:
 - "/v1575642888/veronika-cechmankova/kabel_y5btmf.jpg"
 - "/v1575642993/veronika-cechmankova/DSC_0401_jh28hy.jpg"
 slug: ''
-weight: 7000
-embed: ''
+weight: 9000
+embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/JFNJfcWvaSc"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 
 ---

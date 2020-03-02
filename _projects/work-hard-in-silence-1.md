@@ -15,5 +15,6 @@ images:
 - "/v1583106096/veronika-cechmankova/_MG_0542_0_33x_ac7ftx.png"
 slug: ''
 weight: 3000
+video: https://www.youtube.com/embed/6AAQRbD2UOc
 
 ---

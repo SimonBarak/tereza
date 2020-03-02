@@ -59,11 +59,15 @@ fields:
   config:
     required: true
   hidden: true
-- name: video
-  type: text
+- name: embed
+    type: textarea
+  default: ''
   config:
     required: false
-  label: video
+    wysiwyg: false
+    schema:
+      format: html
+  label: embed
 pages:
 - _projects/digita-naive.md
 - _projects/futura.md

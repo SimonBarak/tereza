@@ -2,13 +2,13 @@
 layout: about
 
 ---
-# Hello, my name is Tereza
+# Hello, my name is Tereza, but you can call me Gloriya
 
-**1996. Based in Brno.**
+**1996. Based in Brno. Working under pseudonym Gloriya Komarova**
 
 terezavinklarkova@gmail.com
 
-***Studies**
+\***Studies**
 
 **2015-now**   FaVU VUT, Brno, CZ
 
@@ -16,7 +16,7 @@ terezavinklarkova@gmail.com
 
 **2017**           Estonian Academy of Fine Arts, Tallinn, EE
 
-***Exhibitions**
+\***Exhibitions**
 
 **2020**
 
@@ -48,7 +48,7 @@ The Last Word, Nova Cvernovka, Gallery IN:OUT, Bratislava, SK
 
 AFTERLIFE, Tschechisches Zentrum, Berlin, DE
 
-***Performance**
+\***Performance**
 
 **2019**
 

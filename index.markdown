@@ -1,12 +1,12 @@
 ---
 layout: home
 feed:
+- template: block-text
+  text: Work hard in silence, let success be the noise...
 - template: block-embed
   embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/6AAQRbD2UOc"
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
-- template: block-text
-  text: Work hard in silence, let success be the noise...
 - template: block-image
   image: "/v1575642993/veronika-cechmankova/DSC_0401_jh28hy.jpg"
   caption: ''

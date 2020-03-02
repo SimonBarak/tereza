@@ -16,6 +16,6 @@ images:
 - "/v1575642888/veronika-cechmankova/kabel_y5btmf.jpg"
 - "/v1575642993/veronika-cechmankova/DSC_0401_jh28hy.jpg"
 slug: ''
-weight: 8000
+weight: 
 
 ---

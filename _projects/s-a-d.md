@@ -1,9 +1,10 @@
 ---
 layout: project
 title: Black Shaming
-description: Black shaming is referring to phenomenon of slut shaming, as a form social
-  stigma applied to people, but especially to woman and girls, who are perceived to
-  violate traditional expectations for sexual behaviours.
+description: |-
+  Black shaming is referring to phenomenon of slut shaming, as a form social stigma applied to people, but especially to woman and girls, who are perceived to violate traditional expectations for sexual behaviours.
+
+  Photo: Polina Davydenko
 category: ''
 year: "2017"
 images:

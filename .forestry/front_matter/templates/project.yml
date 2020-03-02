@@ -59,6 +59,11 @@ fields:
   config:
     required: true
   hidden: true
+- name: video
+  type: text
+  config:
+    required: false
+  label: video
 pages:
 - _projects/digita-naive.md
 - _projects/futura.md

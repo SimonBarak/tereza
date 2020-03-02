@@ -8,6 +8,8 @@ layout: about
 
 terezavinklarkova@gmail.com
 
+    <i class="fa fa-instagram" style="font-size:48px;color:red"></i>
+
 \***Studies**
 
 **2015-now**   FaVU VUT, Brno, CZ

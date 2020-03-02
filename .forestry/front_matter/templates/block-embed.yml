@@ -1,4 +1,9 @@
 ---
 label: block-embed
 hide_body: false
-fields: []
+fields:
+- name: embed
+  type: text
+  config:
+    required: false
+  label: embed

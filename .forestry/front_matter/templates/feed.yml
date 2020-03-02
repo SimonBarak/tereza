@@ -12,6 +12,7 @@ fields:
   template_types:
   - block-text
   - block-image
+  - block-embed
   config:
     min: 
     max: 

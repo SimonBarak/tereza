@@ -1,27 +1,32 @@
 ---
 layout: home
 feed:
-  - template: block-text
-    text: Work hard in silence, let success be the noise.
-  - template: block-image
-    image: "/v1575642993/veronika-cechmankova/DSC_0401_jh28hy.jpg"
-    caption: ""
-  - template: block-text
-    text: You are my craft hero.
-  - template: block-image
-    image: "/v1575642120/veronika-cechmankova/2_qwnxjm.jpg"
-    caption: ""
-  - template: block-image
-    image: "/v1575642120/veronika-cechmankova/3_ma9g1o.jpg"
-    caption: ""
-  - template: block-text
-    text: Let your imagination run wild.
-  - template: block-image
-    image: "/v1583108123/veronika-cechmankova/IMG_0268_0_33x_nn61g4.png"
-    caption: ""
-  - template: block-text
-    text: It is the Sun, stupid.
-  - template: block-image
-    image: "/v1583108772/veronika-cechmankova/_MG_0423_0_33x_ntjbii.png"
-    caption: ""
+- template: block-text
+  text: Work hard in silence, let success be the noise.
+- template: block-image
+  image: "/v1575642993/veronika-cechmankova/DSC_0401_jh28hy.jpg"
+  caption: ''
+- template: block-text
+  text: You are my craft hero.
+- template: block-image
+  image: "/v1575642120/veronika-cechmankova/2_qwnxjm.jpg"
+  caption: ''
+- template: block-image
+  image: "/v1575642120/veronika-cechmankova/3_ma9g1o.jpg"
+  caption: ''
+- template: block-text
+  text: Let your imagination run wild.
+- template: block-image
+  image: "/v1583108123/veronika-cechmankova/IMG_0268_0_33x_nn61g4.png"
+  caption: ''
+- template: block-text
+  text: It is the Sun, stupid.
+- template: block-image
+  image: "/v1583108772/veronika-cechmankova/_MG_0423_0_33x_ntjbii.png"
+  caption: ''
+- template: block-embed
+  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/6AAQRbD2UOc"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
+
 ---

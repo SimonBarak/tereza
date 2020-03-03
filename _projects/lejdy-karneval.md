@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Craft Boys
-description: This is description of project
+description: ''
 category: ''
 year: "2016"
 images:

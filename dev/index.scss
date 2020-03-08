@@ -32,14 +32,6 @@
   display: block;
 }
 
-// header {
-//   background: linear-gradient(
-//     to bottom,
-//     rgba(255, 255, 255, 1) 0%,
-//     rgba(255, 255, 255, 0) 100%
-//   );
-// }
-
 .gradient-botom {
   // PŘECHOD V POZÁDÍ
   background: linear-gradient(
@@ -47,15 +39,6 @@
     rgb(154, 147, 250) 40%,
     rgb(174, 0, 255) 80%
   );
-
-  // background: radial-gradient(
-  //   ellipse at center,
-  //   rgba(248, 80, 50, 1) 0%,
-  //   rgba(241, 111, 92, 1) 50%,
-  //   rgba(246, 41, 12, 1) 51%,
-  //   rgba(240, 47, 23, 1) 71%,
-  //   rgba(231, 56, 39, 1) 100%
-  // );
 
   // BARVA TEXTU
   color: rgb(37, 22, 167);
@@ -321,16 +304,6 @@ input[type="range"] {
       border-color: $color__active;
     }
   }
-
-  // * * * TRACK * * *
-
-  // .mx-range-track() {
-  //   width: 100%;
-  //   cursor: pointer;
-  //   height: 1em;
-  //   border-bottom: 2px solid $color__default;
-  //   background-color: transparent;
-  // }
 
   &::-webkit-slider-runnable-track {
     width: 100%;

@@ -20,6 +20,10 @@ terezavinklarkova@gmail.com
 
 **2020**
 
+Colour Eating, Display, Praha, CZ
+
+Sand in the Gears, PLATO, Ostrava, CZ
+
 Too Cool To Pretend To Care, Umakart, Brno, CZ
 
 **2019**

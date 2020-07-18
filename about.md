@@ -20,7 +20,7 @@ terezavinklarkova@gmail.com
 
 **2020**
 
-Colour Eating, Display, Praha, CZ
+Colour Eating, Display, Prague, CZ
 
 Sand in the Gears, PLATO, Ostrava, CZ
 

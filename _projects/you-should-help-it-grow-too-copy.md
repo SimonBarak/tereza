@@ -12,7 +12,7 @@ images:
 - "/v1595108206/veronika-cechmankova/C7638B6E-60D5-4666-A63F-ED0CDCA02546_mfhfnw.jpg"
 - "/v1595108208/veronika-cechmankova/F80B4901-4E6D-4FD9-91FB-AF91CF39DF61_n8temo.jpg"
 slug: ''
-weight: 2000
+weight: 2800
 video: https://www.youtube.com/embed/6AAQRbD2UOc
 embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/6AAQRbD2UOc"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

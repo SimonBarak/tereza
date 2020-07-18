@@ -24,6 +24,5 @@ feed:
   caption: ''
 - template: block-text
   text: It is the Sun, stupid.
-published: false
 
 ---

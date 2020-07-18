@@ -1,12 +1,11 @@
 ---
 layout: home
 feed:
+- template: block-image
+  image: "/v1595108207/veronika-cechmankova/FBF02168-A8EE-48B7-A139-3DAAB874CE1F_g4fkuf.jpg"
+  caption: ''
 - template: block-text
   text: Work hard in silence, let success be the noise...
-- template: block-embed
-  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/6AAQRbD2UOc"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen></iframe>
 - template: block-image
   image: "/v1575642993/veronika-cechmankova/DSC_0401_jh28hy.jpg"
   caption: ''
@@ -25,8 +24,5 @@ feed:
   caption: ''
 - template: block-text
   text: It is the Sun, stupid.
-- template: block-image
-  image: "/v1583108772/veronika-cechmankova/_MG_0423_0_33x_ntjbii.png"
-  caption: ''
 
 ---

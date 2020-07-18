@@ -65,6 +65,7 @@ fields:
     required: true
   hidden: true
 pages:
+- _projects/coma.md
 - _projects/digita-naive.md
 - _projects/futura.md
 - _projects/glori.md

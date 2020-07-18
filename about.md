@@ -8,8 +8,6 @@ layout: about
 
 terezavinklarkova@gmail.com
 
-[glori___23](https://www.instagram.com/glori___23/ "glori___23")
-
 \***Studies**
 
 **2015-now**   FaVU VUT, Brno, CZ

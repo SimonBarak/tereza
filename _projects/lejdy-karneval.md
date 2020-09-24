@@ -3,7 +3,7 @@ layout: project
 title: Craft Boys
 description: ''
 category: ''
-year: "2016"
+year: ''
 images:
 - "/v1575642120/veronika-cechmankova/3_ma9g1o.jpg"
 - "/v1575739523/veronika-cechmankova/hotovojojojojo_hp2p6l.jpg"

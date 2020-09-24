@@ -7,7 +7,7 @@ description: Fashion chains serves us everyday a huge amount of clothes with cam
   of girly room I made and posted it on Facebook page for military advices. Waiting
   for the comments, I actually really applied for military course in army.
 category: ''
-year: "2017"
+year: ''
 images:
 - "/v1575642888/veronika-cechmankova/zehlicka_ruezrl.jpg"
 - "/v1575737027/veronika-cechmankova/zrc2_y5bcgr.jpg"

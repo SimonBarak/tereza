@@ -1,6 +1,6 @@
 ---
 layout: project
-title: You Should Help It Grow Too
+title: You Should Help It To Grow Too
 description: |-
   You Should Help It Grow Too is second part of project Too Cool To Pretend To Care. In this part Gloriya showing us third geoengineering method - ocean fertilisation.
 

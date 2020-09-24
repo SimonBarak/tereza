@@ -2,9 +2,6 @@
 layout: home
 feed:
 - template: block-image
-  image: "/v1595108207/veronika-cechmankova/FBF02168-A8EE-48B7-A139-3DAAB874CE1F_g4fkuf.jpg"
-  caption: ''
-- template: block-image
   image: "/v1595109232/veronika-cechmankova/IMG_6896_u1dg1y.jpg"
   caption: ''
 - template: block-text

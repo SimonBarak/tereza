@@ -5,7 +5,7 @@ embed: ''
 title: Coma
 description: Instagram filter Coma made for exhibition Colour Eating in Display and
   Display's residency at Digital Feminism.
-year: "2020"
+year: ''
 images:
 - "/v1595109701/veronika-cechmankova/IMG_7439_smxds9.png"
 - "/v1595109705/veronika-cechmankova/IMG_7430_r7ebvq.png"

@@ -9,7 +9,7 @@ description: S.A.D. or seasonl affective disorder exhibits depressive symptoms, 
   your favourite physical activity. Choose your design and enjoy your new winter full
   of happiness!
 category: ''
-year: "2017"
+year: ''
 images:
 - "/v1583108123/veronika-cechmankova/IMG_0268_0_33x_nn61g4.png"
 - "/v1583108106/veronika-cechmankova/IMG_0249_0_33x_qurrhk.png"
@@ -17,5 +17,6 @@ images:
 - "/v1583108111/veronika-cechmankova/Screenshot_2020-03-02_at_00.59.57_oeja2k.png"
 slug: ''
 weight: 8000
+embed: ''
 
 ---

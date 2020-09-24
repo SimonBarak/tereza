@@ -6,7 +6,7 @@ description: |-
 
   The aim of the project is to capture the consumer approach of society, the culture of millennials, fake news, as well as planetary and societal changes. It presents a stylized post-ironic testimony of somehow narcissistic millennials whose social platforms have become the main platform for expression, forcing us to reflect on the multitude of information we surround each day and the necessity of their selection.
 category: ''
-year: "2020"
+year: ''
 images:
 - "/v1583106096/veronika-cechmankova/_MG_0523_0_33x_cmzfge.png"
 - "/v1583157815/veronika-cechmankova/88154017_629927370912186_1712916219880800256_n_xafx4v.jpg"

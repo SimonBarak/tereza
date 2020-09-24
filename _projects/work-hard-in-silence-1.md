@@ -22,6 +22,8 @@ images:
 slug: ''
 weight: 3000
 video: https://www.youtube.com/embed/6AAQRbD2UOc
-embed: https://youtu.be/loBwihoblGg
+embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/loBwihoblGg"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+  gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---

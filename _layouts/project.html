@@ -4,19 +4,13 @@ layout: default
 
 {% if page.embed %}
 <section class="mt-32">
-  <div class="flex justify-center">
-    {{page.embed}}
-  </div>
+  <div class="flex justify-center">{{page.embed}}</div>
 </section>
 {% endif %}
 <section class="mt-32">
-  <div class="mx-auto pb-4">
-    {%- include gallery-images.html -%}
-  </div>
+  <div class="mx-auto pb-4">{%- include gallery-images.html -%}</div>
 </section>
 <section class="px-5 py-16 lg:py-24">
-  <div class="max-w-lg mx-auto text-lg">{{ page.description }}</div>
+  <div class="max-w-lg mx-auto text-lg">{{ content }}</div>
 </section>
-<section>
-  {%- include footer.html -%}
-</section>
+<section>{%- include footer.html -%}</section>

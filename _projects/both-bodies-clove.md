@@ -6,7 +6,7 @@ title: Both Bodies Clove
 description: ''
 year: ''
 images:
-- "/v1604098869/veronika-cechmankova/ddffd_bn7tmv.jpg"
+- "/v1604099074/veronika-cechmankova/_12A9303-2_fc3wd2.jpg"
 - "/v1604098608/veronika-cechmankova/_12A9297_v427pk.jpg"
 - "/v1604098602/veronika-cechmankova/_12A9349_sxluun.jpg"
 - "/v1604098611/veronika-cechmankova/_12A9316_zi8dpn.jpg"
@@ -46,6 +46,6 @@ Stehy lehce otlačily kůži na holeních a zanechaly na ní klikatou stopu, jak
 
 **With** Monika Rygálová
 
-**Curated by** Noemi Purkrábková & Jiří Siruůček
+**Curated by** Noemi Purkrábková & Jiří Sirůček
 
 **Photo** by Markéta Slaná

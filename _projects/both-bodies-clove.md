@@ -27,7 +27,7 @@ gallery:
 - "/v1604098605/veronika-cechmankova/_12A9199_x9pfq9.jpg"
 
 ---
-Swallowing the darkish liquid  
+**Swallowing the darkish liquid  
 One click  
 Two sips  
 Taking you further  
@@ -35,9 +35,9 @@ Warm blue fabric
 Humming round your body  
 Mild clove flavor  
 Softening tips of fingers  
-Press & hold the button in the center of the screen
+Press & hold the button in the center of the screen**
 
-Is this as far as it goes?
+**Is this as far as it goes?**
 
 \~
 

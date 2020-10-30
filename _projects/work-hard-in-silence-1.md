@@ -23,6 +23,7 @@ video: https://www.youtube.com/embed/6AAQRbD2UOc
 embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/loBwihoblGg"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen></iframe>
+published: false
 
 ---
 _You Should Help It Grow Too_ is second part of project Too Cool To Pretend To Care. In this part Gloriya showing us third geoengineering method - ocean fertilisation.

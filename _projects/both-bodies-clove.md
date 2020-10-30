@@ -8,7 +8,6 @@ year: ''
 images:
 - "/v1604100493/veronika-cechmankova/_12A9414_tmv3gy.jpg"
 - "/v1604100492/veronika-cechmankova/_12A9334_vxpr5l.jpg"
-- "/v1604100488/veronika-cechmankova/_12A9293_seeno2.jpg"
 - "/v1604100491/veronika-cechmankova/_12A9485_h0nan9.jpg"
 - "/v1604098612/veronika-cechmankova/_12A9535_ah5ls7.jpg"
 - "/v1604098602/veronika-cechmankova/_12A9349_sxluun.jpg"

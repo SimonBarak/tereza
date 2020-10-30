@@ -7,15 +7,13 @@ year: ''
 images:
 - "/v1604082949/veronika-cechmankova/DSC_2950_MagD-_1_drjexn.jpg"
 - "/v1604082949/veronika-cechmankova/DSC_2948_MagD-_1_lxespc.jpg"
+- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604088883/veronika-cechmankova/_R5A1340_akgtwo.jpg
 - "/v1583106094/veronika-cechmankova/_MG_0551_0_33x_nqsvse.png"
-- "/v1583157815/veronika-cechmankova/88154017_629927370912186_1712916219880800256_n_xafx4v.jpg"
-- "/v1583157815/veronika-cechmankova/89163752_657425955005235_4164686038670770176_n_dd68kh.jpg"
-- "/v1583157817/veronika-cechmankova/88163150_229094838255894_1401766012746989568_n_uwd5gq.jpg"
-- "/v1583157815/veronika-cechmankova/87953133_218240106031442_4045550504942501888_n_zw31o9.jpg"
-- "/v1583106096/veronika-cechmankova/_MG_0510_0_33x_e5hbyt.png"
-- "/v1583157815/veronika-cechmankova/88240603_179388363513333_6800383073088176128_n_cuwasi.jpg"
-- "/v1583157815/veronika-cechmankova/88191406_135405817798063_6059262878202986496_n_q7mum3.jpg"
-- "/v1583106091/veronika-cechmankova/_MG_0515_0_33x_jvyu89.png"
+- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604089459/veronika-cechmankova/ATereza2_prict7.jpg
+- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604089460/veronika-cechmankova/ATereza3_yqzlyg.jpg
+- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604089460/veronika-cechmankova/ATereza5_olguxq.jpg
+- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604089461/veronika-cechmankova/ATereza7_n3dqtr.jpg
+- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604089460/veronika-cechmankova/ATereza4_apztjj.jpg
 - "/v1583106096/veronika-cechmankova/_MG_0542_0_33x_ac7ftx.png"
 slug: ''
 weight: 3000
@@ -29,4 +27,4 @@ _You Should Help It To Grow, Too_ is second part of project _Too Cool To Pretend
 
 The aim of the project is to capture the consumer approach of society, the culture of millennials, fake news, as well as planetary and social changes. It presents a stylized post-ironic testimony of somehow narcissistic millennials whose social platforms have become the main platform for expression, forcing us to reflect on the multitude of information we are surrounded by each day and the necessity of their selection.
 
-**Photos**: (1,2) Magdaléna Dušková, PLATO / (3) Martin Polák, PLATO 
+**Photos**: (1,2) Magdaléna Dušková, PLATO / (3) Martin Polák, PLATO / (7,8) Tomáš Souček, Display

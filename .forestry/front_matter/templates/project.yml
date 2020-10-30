@@ -37,6 +37,10 @@ fields:
 - type: image_gallery
   name: images
   label: images
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: gallery
 - name: category
   type: select
   default: ''

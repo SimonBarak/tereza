@@ -5,7 +5,6 @@ description: ''
 category: ''
 year: ''
 images:
-- "/v1575643174/veronika-cechmankova/_DSC9635_gl750u.jpg"
 - "/v1604082949/veronika-cechmankova/DSC_2950_MagD-_1_drjexn.jpg"
 - "/v1604082949/veronika-cechmankova/DSC_2948_MagD-_1_lxespc.jpg"
 - https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604088883/veronika-cechmankova/_R5A1340_akgtwo.jpg

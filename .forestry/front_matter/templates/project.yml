@@ -65,6 +65,7 @@ fields:
     required: true
   hidden: true
 pages:
+- _projects/both-bodies-clove.md
 - _projects/coma.md
 - _projects/digita-naive.md
 - _projects/futura.md

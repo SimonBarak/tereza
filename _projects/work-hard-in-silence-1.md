@@ -8,7 +8,8 @@ description: |-
 category: ''
 year: ''
 images:
-- "/v1583106096/veronika-cechmankova/_MG_0523_0_33x_cmzfge.png"
+- "/v1604082430/veronika-cechmankova/DSC_2950_MagD_1_hnpodf.jpg"
+- "/v1604082425/veronika-cechmankova/DSC_2948_MagD_1_mlx3cr.jpg"
 - "/v1583157815/veronika-cechmankova/88154017_629927370912186_1712916219880800256_n_xafx4v.jpg"
 - "/v1583157815/veronika-cechmankova/89163752_657425955005235_4164686038670770176_n_dd68kh.jpg"
 - "/v1583106094/veronika-cechmankova/_MG_0551_0_33x_nqsvse.png"

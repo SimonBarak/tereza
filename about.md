@@ -4,7 +4,7 @@ layout: about
 ---
 # Hello, my name is Tereza, but you can call me Gloriya
 
-**1996. Based in Brno. Working under pseudonym Gloriya Komarova.**
+**Based in Brno. Working under pseudonym Gloriya Komarova.**
 
 terezavinklarkova@gmail.com
 
@@ -16,15 +16,25 @@ terezavinklarkova@gmail.com
 
 **2017**           Estonian Academy of Fine Arts, Tallinn, EE
 
-\***Exhibitions**
+***Solo exhibitions**
 
 **2020**
+
+Too Cool To Pretend To Care, Umakart, Brno, CZ
+
+**2018**
+
+Gloriya Komarova, Monomach, Brno, CZ
+
+\***Group exhibitions**
+
+**2020**
+
+Both Bodies Clove, JednaDvaTři gallery, Prague, CZ
 
 Colour Eating, Display, Prague, CZ
 
 Sand in the Gears, PLATO, Ostrava, CZ
-
-Too Cool To Pretend To Care, Umakart, Brno, CZ
 
 **2019**
 
@@ -35,8 +45,6 @@ Free Life, Jeleni gallery, Prague, CZ
 **2018**
 
 lilky_60200, Umakart, Brno, CZ
-
-Gloriya Komarova, Monomach, Brno, CZ
 
 Urban Skanzen, Clam-Gallais palace, Prague, CZ
 
@@ -53,6 +61,10 @@ The Last Word, Nova Cvernovka, Gallery IN:OUT, Bratislava, SK
 AFTERLIFE, Tschechisches Zentrum, Berlin, DE
 
 \***Performance**
+
+**2020**
+
+lilky60200 w/o Lulecska lavka, Lulec, CZ
 
 **2019**
 
@@ -73,3 +85,9 @@ Washing Patience, House of Arts, Brno, CZ
 Malamut festival, Ostrava, CZ
 
 Chaos festival Stritez, CZ
+
+***Workshops**
+
+**2020**
+
+All That You Change, Changes You - workshop led by Antonie Bernardova, components sewed by me, Gallery 209, Brno, CZ

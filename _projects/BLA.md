@@ -7,6 +7,5 @@ feed:
 - template: block-image
   image: ''
   caption: ''
-published: false
 
 ---

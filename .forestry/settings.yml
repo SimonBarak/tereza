@@ -21,7 +21,7 @@ sections:
 upload_dir: veronika-cechmankova
 public_path: https://res.cloudinary.com/dhxmg9p4i/image/upload
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:

@@ -8,6 +8,5 @@ year: ''
 images: []
 category: ''
 slug: ''
-published: false
 
 ---

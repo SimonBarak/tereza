@@ -4,7 +4,7 @@ layout: about
 ---
 # Hello, my name is Tereza, but you can call me Gloriya
 
-[https://www.instagram.com/glori___23/](https://www.instagram.com/glori___23/ "https://www.instagram.com/glori___23/")
+[https://www.instagram.com/glori___23/](https://www.instagram.com/glori___23/ "Instagram")
 
 **Based in Brno. Working under pseudonym Gloriya Komarova.**
 
@@ -18,7 +18,7 @@ terezavinklarkova@gmail.com
 
 **2017**           Estonian Academy of Fine Arts, Tallinn, EE
 
-***Solo exhibitions**
+\***Solo exhibitions**
 
 **2020**
 
@@ -88,7 +88,7 @@ Malamut festival, Ostrava, CZ
 
 Chaos festival Stritez, CZ
 
-***Workshops**
+\***Workshops**
 
 **2020**
 

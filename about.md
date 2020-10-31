@@ -10,7 +10,7 @@ layout: about
 
 terezavinklarkova@gmail.com
 
-\***Studies**
+\~\~strike\~\~***Studies**\~\~strike\~\~
 
 **2015-now**   FaVU VUT, Brno, CZ
 

@@ -1,7 +1,17 @@
 ---
 weight: 2600
 layout: project
-embed: ''
+embed: "<iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\"
+  allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/893923393&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div
+  style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
+  hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida
+  Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:
+  100;\"><a href=\"https://soundcloud.com/both_bodies_clove\" title=\"☽ \U0001D469\U0001D490\U0001D495\U0001D489
+  \U0001D469\U0001D490\U0001D485\U0001D48A\U0001D486\U0001D494 \U0001D46A\U0001D48D\U0001D490\U0001D497\U0001D486
+  ☾\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">☽ \U0001D469\U0001D490\U0001D495\U0001D489
+  \U0001D469\U0001D490\U0001D485\U0001D48A\U0001D486\U0001D494 \U0001D46A\U0001D48D\U0001D490\U0001D497\U0001D486
+  ☾</a> · <a href=\"https://soundcloud.com/both_bodies_clove/rope\" title=\"\U0001D445\U0001D45C\U0001D4C5\U0001D452\"
+  target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">\U0001D445\U0001D45C\U0001D4C5\U0001D452</a></div>"
 title: Both Bodies Clove
 description: ''
 year: ''

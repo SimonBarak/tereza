@@ -10,7 +10,7 @@ layout: about
 
 terezavinklarkova@gmail.com
 
-\~\~strike\~\~***Studies**\~\~strike\~\~
+\***Studies**
 
 **2015-now**   FaVU VUT, Brno, CZ
 
@@ -32,7 +32,7 @@ Gloriya Komarova, Monomach, Brno, CZ
 
 **2020**
 
-Both Bodies Clove, JednaDvaTři gallery, Prague, CZ
+Both Bodies Clove, JednaDvaTri gallery, Prague, CZ
 
 Colour Eating, Display, Prague, CZ
 

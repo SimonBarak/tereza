@@ -24,5 +24,8 @@ feed:
   caption: ''
 - template: block-text
   text: It is the Sun, stupid.
+- template: block-image
+  image: "/v1604098608/veronika-cechmankova/_12A9297_v427pk.jpg"
+  caption: ''
 
 ---

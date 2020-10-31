@@ -4,11 +4,11 @@ layout: about
 ---
 # Hello, my name is Tereza, but you can call me Gloriya
 
-    <a href="https://www.instagram.com/glori___23/">
+    
 
 **Based in Brno. Working under pseudonym Gloriya Komarova.**
 
-terezavinklarkova@gmail.com
+terezavinklarkova@gmail.com / IG: glori___23
 
 \***Studies**
 

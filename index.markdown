@@ -33,5 +33,8 @@ feed:
 - template: block-image
   image: "/v1604098608/veronika-cechmankova/_12A9297_v427pk.jpg"
   caption: ''
+- template: block-image
+  image: "/v1604104359/veronika-cechmankova/pulnapul.detail_qhwb9b.jpg"
+  caption: ''
 
 ---

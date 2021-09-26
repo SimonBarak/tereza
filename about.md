@@ -4,8 +4,6 @@ layout: about
 ---
 # Hello, my name is Tereza, but you can call me Gloriya
 
-    
-
 **Based in Brno. Working under pseudonym Gloriya Komarova.**
 
 terezavinklarkova@gmail.com / IG: glori___23
@@ -29,6 +27,10 @@ Too Cool To Pretend To Care, Umakart, Brno, CZ
 Gloriya Komarova, Monomach, Brno, CZ
 
 \***Group exhibitions**
+
+**2021**
+
+Ctyrhlava bojovnice / lilky_60200, Divoka Sarka, Prague, CZ
 
 **2020**
 

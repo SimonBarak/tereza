@@ -6,7 +6,9 @@ layout: about
 
 **Based in Brno. Working under pseudonym Gloriya Komarova.**
 
-terezavinklarkova@gmail.com / IG: https://instagram.com/glori___23 
+terezavinklarkova@gmail.com / IG: https://instagram.com/glori___23
+
+.
 
 \***Studies**
 
@@ -15,6 +17,8 @@ terezavinklarkova@gmail.com / IG: https://instagram.com/glori___23
 **2018**           KASK & Conservatorium, Ghent, BE
 
 **2017**           Estonian Academy of Fine Arts, Tallinn, EE
+
+.
 
 \***Solo exhibitions**
 
@@ -29,6 +33,8 @@ Too Cool To Pretend To Care, Umakart, Brno, CZ
 **2018**
 
 Gloriya Komarova, Monomach, Brno, CZ
+
+.
 
 \***Group exhibitions**
 
@@ -68,6 +74,8 @@ The Last Word, Nova Cvernovka, Gallery IN:OUT, Bratislava, SK
 
 AFTERLIFE, Tschechisches Zentrum, Berlin, DE
 
+.
+
 \***Performance**
 
 **2020**
@@ -94,13 +102,17 @@ Malamut festival, Ostrava, CZ
 
 Chaos festival Stritez, CZ
 
+.
+
 \***Workshops**
 
 **2020**
 
 All That You Change, Changes You - workshop led by Antonie Bernardova, components sewed by me, Gallery 209, Brno, CZ
 
-***Other**
+.
+
+\***Other**
 
 **2022** Dean's Prize at FaVU VUT
 

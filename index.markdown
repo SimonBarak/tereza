@@ -2,6 +2,9 @@
 layout: home
 feed:
 - template: block-image
+  image: "/v1663842792/veronika-cechmankova/09_Vinklarkova-7703_ogxljc.jpg"
+  caption: ''
+- template: block-image
   image: "/v1604089461/veronika-cechmankova/ATereza7_n3dqtr.jpg"
   caption: ''
 - template: block-image
@@ -12,9 +15,6 @@ feed:
   caption: ''
 - template: block-image
   image: "/v1575642120/veronika-cechmankova/2_qwnxjm.jpg"
-  caption: ''
-- template: block-image
-  image: "/v1663842792/veronika-cechmankova/09_Vinklarkova-7703_ogxljc.jpg"
   caption: ''
 - template: block-image
   image: "/v1604098613/veronika-cechmankova/_12A9435_xq9bi5.jpg"

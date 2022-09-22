@@ -5,23 +5,26 @@ description: ''
 category: ''
 year: ''
 images:
-- "/v1604082949/veronika-cechmankova/DSC_2950_MagD-_1_drjexn.jpg"
-- "/v1604082949/veronika-cechmankova/DSC_2948_MagD-_1_lxespc.jpg"
-- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604088883/veronika-cechmankova/_R5A1340_akgtwo.jpg
-- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604090000/veronika-cechmankova/ATereza4_z2slmj.jpg
-- "/v1604102945/veronika-cechmankova/2_zozppp.jpg"
-- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1583106094/veronika-cechmankova/_MG_0551_0_33x_nqsvse.png
-- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604089999/veronika-cechmankova/ATereza2_i5ghmt.jpg
-- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604090000/veronika-cechmankova/ATereza5_nn3oif.jpg
-- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604089999/veronika-cechmankova/ATereza7_qhotj1.jpg
-- https://res.cloudinary.com/dhxmg9p4i/image/upload/v1604089999/veronika-cechmankova/ATereza3_mu9gtg.jpg
-- "/v1583106096/veronika-cechmankova/_MG_0542_0_33x_ac7ftx.png"
+- "/v1663842798/veronika-cechmankova/01_Vinklarkova-7630_n2pdi2.jpg"
+- "/v1663842819/veronika-cechmankova/04_Vinklarkova-7716_compdr.jpg"
+- "/v1663842802/veronika-cechmankova/05_Vinklarkova-7714_kx52ln.jpg"
+- "/v1663842809/veronika-cechmankova/03_Vinklarkova-7671_gvfyip.jpg"
+- "/v1663842809/veronika-cechmankova/02_Vinklarkova-7689_hg5wry.jpg"
+- "/v1663842811/veronika-cechmankova/06_Vinklarkova-7701_j45wkm.jpg"
+- "/v1663842795/veronika-cechmankova/08_Vinklarkova-7677_hb1gol.jpg"
+- "/v1663842812/veronika-cechmankova/07_Vinklarkova-7667_yetdlz.jpg"
+- "/v1663842792/veronika-cechmankova/09_Vinklarkova-7703_ogxljc.jpg"
+- "/v1663842807/veronika-cechmankova/10_Vinklarkova-7705_igalar.jpg"
+- "/v1663842808/veronika-cechmankova/11_Vinklarkova-7683_hqcl8j.jpg"
+- "/v1663842796/veronika-cechmankova/15_Vinklarkova-7661_a5hsqv.jpg"
+- "/v1663842803/veronika-cechmankova/12_Vinklarkova-7710_xivlbt.jpg"
+- "/v1663842805/veronika-cechmankova/14_Vinklarkova-7656_keinpb.jpg"
+- "/v1663842818/veronika-cechmankova/13_Vinklarkova-7687_n4ezcc.jpg"
+- "/v1663842811/veronika-cechmankova/16_Vinklarkova-7649_yeu9wp.jpg"
 slug: ''
 weight: 3000
 video: https://www.youtube.com/embed/6AAQRbD2UOc
-embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/loBwihoblGg"
-  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-  gyroscope; picture-in-picture" allowfullscreen></iframe>
+embed: ''
 gallery: []
 published: false
 

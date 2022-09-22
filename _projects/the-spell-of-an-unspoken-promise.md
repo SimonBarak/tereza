@@ -22,7 +22,7 @@ images:
 - "/v1663842818/veronika-cechmankova/13_Vinklarkova-7687_n4ezcc.jpg"
 - "/v1663842811/veronika-cechmankova/16_Vinklarkova-7649_yeu9wp.jpg"
 slug: ''
-weight: 3000
+weight: 2000
 video: https://www.youtube.com/embed/6AAQRbD2UOc
 embed: ''
 gallery: []

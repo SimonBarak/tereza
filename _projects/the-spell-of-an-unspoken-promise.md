@@ -26,7 +26,6 @@ weight: 3000
 video: https://www.youtube.com/embed/6AAQRbD2UOc
 embed: ''
 gallery: []
-published: false
 
 ---
 In her essay, On Being Ill, Virginia Woolf writes: Considering how common illness is, how tremendous the spiritual change that it brings, how astonishing, when the lights of health go down, the undiscovered countries that are then disclosed, what wastes and deserts of the soul a slight attack of influenza brings to view … it becomes strange indeed that illness has not taken its place with love and battle and jealousy among the prime themes of literature. Novels, one would have thought, would have been devoted to influenza; epic poems to typhoid; odes to pneumonia … But no; … literature does its best to maintain that its concern is with the mind; that the body is a sheet of plain glass through which the soul looks straight and clear.”  

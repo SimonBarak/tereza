@@ -14,6 +14,5 @@ images:
 gallery: []
 category: ''
 slug: ''
-published: false
 
 ---

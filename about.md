@@ -99,3 +99,9 @@ Chaos festival Stritez, CZ
 **2020**
 
 All That You Change, Changes You - workshop led by Antonie Bernardova, components sewed by me, Gallery 209, Brno, CZ
+
+***Other**
+
+**2022** Dean's Prize at FaVU VUT
+
+**2022** Marienbad Film Festival

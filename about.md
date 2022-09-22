@@ -6,17 +6,21 @@ layout: about
 
 **Based in Brno. Working under pseudonym Gloriya Komarova.**
 
-terezavinklarkova@gmail.com / IG: glori___23
+terezavinklarkova@gmail.com / IG: https://instagram.com/glori___23 
 
 \***Studies**
 
-**2015-now**   FaVU VUT, Brno, CZ
+**2015-2022**  BA, MA at FaVU VUT, Brno, CZ
 
 **2018**           KASK & Conservatorium, Ghent, BE
 
 **2017**           Estonian Academy of Fine Arts, Tallinn, EE
 
 \***Solo exhibitions**
+
+**2022**
+
+Kouzlo nevyrceneho slibu/ The Spell of an Unspoken Promise, Gallery TIC, Brno, CZ
 
 **2020**
 

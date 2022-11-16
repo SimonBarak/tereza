@@ -1,5 +1,5 @@
 ---
-weight: 6000
+weight: 2500
 layout: project
 embed: ''
 title: All That You Change, Changes You

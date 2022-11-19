@@ -10,6 +10,12 @@ terezavinklarkova@gmail.com / IG: https://instagram.com/glori___23
 
 .
 
+***Bio**
+
+Tereza Vinklárková (*1996) is a visual artist working also under the pseudonym Gloriya Komarova. Tereza graduated with a Master's degree in Intermedia studio at the Faculty of Fine Arts in Brno and has been on study visits to KASK in Belgium and the Estonian Academy of Arts in Estonia. In her artistic practice, she focuses on phenomena affecting us in everyday life, which she processes through the tools of self-presentation and the culture of sharing. Her artistic expression includes immersive installations made of upcycled material consisting of soft textile sculptures, which together with machine embroidered details have become an essential part of the artist's manuscript. Currently, she has moved from exploring the commodification of ecological elements to the theme of physicality and psychosomatic manifestations in the context of art education and patriarchal structures. Tereza is a member of the relaxed collective lilky_60200.
+
+.
+
 \***Studies**
 
 **2015-2022**  BA, MA at FaVU VUT, Brno, CZ
@@ -76,7 +82,7 @@ AFTERLIFE, Tschechisches Zentrum, Berlin, DE
 
 .
 
-\***Performance**
+\***Performances**
 
 **2020**
 
@@ -117,3 +123,5 @@ All That You Change, Changes You - workshop led by Antonie Bernardova, component
 **2022** Dean's Prize at FaVU VUT
 
 **2022** Marienbad Film Festival
+
+**2019** residency Camp As One, Vityazevo, RU

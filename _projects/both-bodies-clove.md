@@ -9,7 +9,7 @@ embed: '<iframe width="50%" height="166" scrolling="no" frameborder="no" allow="
   100;">'
 title: Both Bodies Clove
 description: ''
-year: ''
+year: "2020"
 images:
 - "/v1604100493/veronika-cechmankova/_12A9414_tmv3gy.jpg"
 - "/v1604100492/veronika-cechmankova/_12A9334_vxpr5l.jpg"

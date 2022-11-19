@@ -3,7 +3,7 @@ layout: project
 title: The Spell of an Unspoken Promise
 description: ''
 category: ''
-year: ''
+year: "2022"
 images:
 - "/v1663842792/veronika-cechmankova/09_Vinklarkova-7703_ogxljc.jpg"
 - "/v1663842798/veronika-cechmankova/01_Vinklarkova-7630_n2pdi2.jpg"

@@ -6,11 +6,13 @@ layout: about
 
 **Based in Brno. Working under pseudonym Gloriya Komarova.**
 
-terezavinklarkova@gmail.com / IG: https://instagram.com/glori___23
+terezavinklarkova@gmail.com 
+
+**IG:** https://instagram.com/glori___23
 
 .
 
-***Bio**
+\***Bio**
 
 Tereza Vinklárková (*1996) is a visual artist working also under the pseudonym Gloriya Komarova. Tereza graduated with a Master's degree in Intermedia studio at the Faculty of Fine Arts in Brno and has been on study visits to KASK in Belgium and the Estonian Academy of Arts in Estonia. In her artistic practice, she focuses on phenomena affecting us in everyday life, which she processes through the tools of self-presentation and the culture of sharing. Her artistic expression includes immersive installations made of upcycled material consisting of soft textile sculptures, which together with machine embroidered details have become an essential part of the artist's manuscript. Currently, she has moved from exploring the commodification of ecological elements to the theme of physicality and psychosomatic manifestations in the context of art education and patriarchal structures. Tereza is a member of the relaxed collective lilky_60200.
 

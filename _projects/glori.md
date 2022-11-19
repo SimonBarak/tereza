@@ -3,7 +3,7 @@ layout: project
 title: Gloriya Komarova
 description: ''
 category: ''
-year: ''
+year: "2018"
 images:
 - "/v1575739124/veronika-cechmankova/43137880_236592827213295_6364983112803287040_n_i0dc4q.jpg"
 - "/v1575738001/veronika-cechmankova/43134392_182120909348408_5049261676000444416_n_tg6xnd.jpg"

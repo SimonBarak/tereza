@@ -4,7 +4,7 @@ layout: project
 embed: ''
 title: Plankton
 description: ''
-year: ''
+year: "2020"
 images:
 - "/v1604099679/veronika-cechmankova/IMG_0165_rmdqby.jpg"
 - "/v1604091437/veronika-cechmankova/IMG_0164_dokszi.png"

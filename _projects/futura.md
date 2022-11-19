@@ -3,7 +3,7 @@ layout: project
 title: Work Hard In Silence
 description: ''
 category: ''
-year: ''
+year: "2017"
 images:
 - "/v1575642888/veronika-cechmankova/zehlicka_ruezrl.jpg"
 - "/v1575737027/veronika-cechmankova/zrc2_y5bcgr.jpg"
@@ -16,6 +16,7 @@ weight: 9000
 embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/JFNJfcWvaSc"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
+gallery: []
 
 ---
 Fashion chains serves us everyday a huge amount of clothes with camouflage patterns and glitter cute texts as Brave girl, Military princess, etc. Game industry showing semi-naked women heroes fighting with wickedness. I took a picture in scene of girly room I made and posted it on Facebook page for military advices. Waiting for the comments, I actually really applied for military course in army.

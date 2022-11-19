@@ -4,7 +4,7 @@ layout: project
 embed: ''
 title: All That You Change, Changes You
 description: ''
-year: ''
+year: "2021"
 images:
 - "/v1604103797/veronika-cechmankova/pulnapul.detail_q8j29a.jpg"
 - "/v1604103795/veronika-cechmankova/liska.detail_zvuopj.jpg"
